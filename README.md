@@ -15,7 +15,7 @@
 
 <h3 align="left">Check out some of my work:</h3>
 <p align="left">
-- <a 📜 My first Arxiv paper: https://arxiv.org/abs/2202.08112></a>
+- 📜 My first Arxiv paper: https://arxiv.org/abs/2202.08112>
 - <a Some datasets on Kaggle: https://www.kaggle.com/datasets/nimishmagre/tmnist-glyphs-1812-characters></a>
 <a 🎶  Music samples generated through an LSTM based network: https://soundcloud.com/user76377803/sets/lstm-based-music-generation?si=4b10df90b2a241ed9897f801c7002634&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing></a>
   </p>
