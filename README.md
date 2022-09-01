@@ -18,3 +18,4 @@
 - <a 📜 My first Arxiv paper: https://arxiv.org/abs/2202.08112></a>
 - <a Some datasets on Kaggle: href="https://www.kaggle.com/datasets/nimishmagre/tmnist-glyphs-1812-characters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nimish magre" height="30" width="40" /></a>
 <a 🎶  Music samples generated through an LSTM based network: https://soundcloud.com/user76377803/sets/lstm-based-music-generation?si=4b10df90b2a241ed9897f801c7002634&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing></a>
+  </p>
