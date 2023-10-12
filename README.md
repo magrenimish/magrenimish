@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nimish</h1>
-<h3 align="center">A passionate machine learning engineer working on Computer Vision related tasks. I recently completed a research internship with the Massachusetts General Hospital where I worked on denoising MRI scans and as of September 1, 2022 I am an MS (ECE) graduate from Northeastern University🎓. I'm currently on the lookout for full-time Machine Learning Engineer/ Computer Vision Engineer/ Data Scientist roles; So if you like my work, please feel free to reach out!! </h3> 
+<h3 align="center">A passionate Data Scientist with experience in working on machine learning engineer tasks involving multi-modal data including vision-based data, audio data, numeric as well as text-based data. I currently work as a Data Scientist with an SaaS startup in Boston and have previously completed an ML research internship with the Massachusetts General Hospital (Harvard Medical School) where I worked on denoising MRI scans. <\br>
+My repositories include code samples, papers explaining my work as well as some interesting research paper reviews!</h3> 
 <h3> Rendered myself as Napoleon through the text2image stable diffusion model by HuggingFace🤗 </hr>
 
 - 📫 How to reach me **magre.n@northeastern.edu**
