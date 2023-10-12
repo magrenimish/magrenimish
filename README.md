@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **magre.n@northeastern.edu**
 
-- 📄 Know about my experiences [https://github.com/magrenimish/magrenimish/blob/main/Resume-Nimish-Magre.pdf](https://github.com/magrenimish/magrenimish/blob/main/Nimish_Magre_Resume.pdf)
+- 📄 Know about my experiences [https://github.com/magrenimish/magrenimish/blob/main/Resume-Nimish-Magre.pdf](https://github.com/magrenimish/magrenimish/blob/main/Nimish_magre_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
