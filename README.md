@@ -7,7 +7,7 @@ My repositories include code samples, papers explaining my work as well as some 
 
 - 📄 Know about my experiences [https://github.com/magrenimish/magrenimish/blob/main/Resume-Nimish-Magre.pdf](https://github.com/magrenimish/magrenimish/blob/main/Nimish_magre_Resume.pdf)
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/nimish magre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimish magre" height="30" width="40" /></a>
 <a href="https://kaggle.com/nimish magre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nimish magre" height="30" width="40" /></a>
