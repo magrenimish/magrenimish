@@ -1,6 +1,6 @@
 # <p align="center">Hi 👋, I'm Nimish</p>
-###<p align="center">
-A passionate Data Scientist with experience in working on machine learning tasks involving multiple types of data including vision-based data, audio data, numeric as well as text-based data. I currently work as a Data Scientist with an SaaS startup in Boston and have previously completed an ML research internship with the Massachusetts General Hospital (Harvard Medical School) where I worked on denoising MRI scans. When pursuing my MS degree at Northeastern University, I also worked as a Graduate Student Researcher working on generating image-based datasets to identify types (Fonts) and associating cognitive properties to these Types. </br>
+<p align="center">
+###A passionate Data Scientist with experience in working on machine learning tasks involving multiple types of data including vision-based data, audio data, numeric as well as text-based data. I currently work as a Data Scientist with an SaaS startup in Boston and have previously completed an ML research internship with the Massachusetts General Hospital (Harvard Medical School) where I worked on denoising MRI scans. When pursuing my MS degree at Northeastern University, I also worked as a Graduate Student Researcher working on generating image-based datasets to identify types (Fonts) and associating cognitive properties to these Types. </br>
 My repositories include code samples, papers explaining my work as well as some interesting research paper reviews!
 </p> 
 <h3> Rendered myself as Napoleon through the text2image stable diffusion model by HuggingFace🤗 </h3>
