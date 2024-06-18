@@ -9,7 +9,7 @@ Rendered myself as Napoleon through the text2image stable diffusion model by Hug
 
 - 📫 How to reach me **magre.n@northeastern.edu**
 
-- 📄 Know about my experiences: <a href="https://github.com/magrenimish/magrenimish/blob/main/Nimish_Resume_2024_Northeastern.pdf" raget="Resume"></a>
+- 📄 Know about my experiences: <a href="https://github.com/magrenimish/magrenimish/blob/main/Nimish_Resume_2024_Northeastern.pdf" target="Resume"></a>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
