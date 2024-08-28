@@ -4,7 +4,7 @@ A passionate Data Scientist with experience in working on machine learning tasks
 My repositories include code samples, papers explaining my work as well as some interesting research paper reviews!
 </p>
 ### <p align="center">
-Rendered myself as Napoleon through the text2image stable diffusion model by HuggingFace🤗 
+ 
 </p>
 
 - 📫 How to reach me **magre.n@northeastern.edu**
