@@ -9,7 +9,7 @@ My repositories include code samples, papers explaining my work as well as some 
 
 - 📫 How to reach me **magre.n@northeastern.edu**
 
-- 📄 Know about my experiences: <a href="https://github.com/magrenimish/magrenimish/blob/main/Nimish_Resume_2024_Northeastern.pdf">Resume</a>
+- 📄 Know about my experiences: <a href="https://github.com/magrenimish/magrenimish/blob/main/Nimish_Magre_Resume_2025.pdf">Resume</a>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
